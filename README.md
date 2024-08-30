@@ -1,1 +1,2 @@
-# pytraj_notebooks
+# A collection of trajectory-analysis notebooks
+
